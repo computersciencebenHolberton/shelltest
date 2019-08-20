@@ -8,7 +8,7 @@ void loop(void){
   //execute the commands                                                                                                             
 
   do{
-    printf("%s","Overwatch@root >");
+    write("$");
     line = read();
     //args is an array of strings                                                                                                    
     //echo samagra is good                                                                                                           
@@ -23,7 +23,7 @@ void loop(void){
 }
 
 
-int main (int argc, char** argv){
+int main (int argc, char** argv){ //envp
   /* code */
 
   //load the config here                                                                                                             
