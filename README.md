@@ -2,4 +2,5 @@
 Shell testing for C
 ## header 
 # header
-![](kyNS9vdiROqlyxw%QTQFLQ_thumb_1.jpg)
+![](https://raw.githubusercontent.com/computersciencebenHolberton/shelltest/master/kyNS9vdiROqlyxw%25QTQFLQ_thumb_1.jpg)
+
