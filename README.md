@@ -1,7 +1,9 @@
 # Building the simple shell by Moscovics and Quinones
-![](https://raw.githubusercontent.com/computersciencebenHolberton/shelltest/master/kyNS9vdiROqlyxw%25QTQFLQ_thumb_1.jpg)
 
-  ## We will be building a simple shell that includes the basic functionality of a traditional Unix command line user 
+![](https://raw.githubusercontent.com/computersciencebenHolberton/shelltest/master/kyNS9vdiROqlyxw%25QTQFLQ_thumb_1.jpg)
+  
+  # We will be building a simple shell that includes the basic functionality of a traditional Unix command line user 
+ 
  That includes functions access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write. 
  
  - All your files will be compiled on Ubuntu 14.04 LTS
