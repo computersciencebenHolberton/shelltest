@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/computersciencebenHolberton/shelltest/master/kyNS9vdiROqlyxw%25QTQFLQ_thumb_1.jpg)
   
-  # We will be building a simple shell that includes the basic functionality of a traditional Unix command line user 
+# We will be building a simple shell that includes the basic functionality of a traditional Unix command line user 
  
  That includes functions access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write. 
  
