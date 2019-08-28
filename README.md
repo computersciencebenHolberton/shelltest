@@ -67,3 +67,26 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ```
+## Fetures
+* uses the PATH
+* implements builtins
+* handels command line arg
+* handels comments
+* handels ;
+* a getline funtion
+* handels && || functions
+* aliases
+
+## Builtins
+* exit
+* env
+* setenv
+* unsetenv
+* cd 
+* help
+* history 
+
+## example of shell use 
+```
+
+```
